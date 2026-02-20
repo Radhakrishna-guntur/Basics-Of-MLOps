@@ -67,3 +67,34 @@ Feature stores are important because they facilitate the process of feature engi
 
 Model drift occurs when the statistical properties of the input data change over time, potentially degrading model performance. 
 To manage this, teams can implement monitoring systems to track model performance metrics over time and detect drift. If drift is detected, strategies include retraining the model with recent data, adjusting the feature set, or even deploying a different model altogether to adapt to the new data distribution.
+
+## What are some common challenges in deploying machine learning models?
+
+**Common challenges in deploying machine learning models include:**
+
+**Model Performance:** Ensuring the model performs well on live data, which may differ from training data.
+
+**Scalability:** Handling increased load and ensuring that the model can serve predictions efficiently.
+
+**Integration:** Seamlessly integrating the model with existing systems and workflows.
+
+**Monitoring:** Setting up effective monitoring to catch issues like data drift and model degradation early.
+
+## How do you monitor and log model performance in production?
+
+Monitoring and logging model performance can be achieved through:
+
+**Performance Metrics:** Regularly tracking key metrics (e.g., accuracy, precision, recall) and visualizing them via dashboards.
+**Alerting Systems:** Setting up alerts to notify the team of performance drops or data anomalies.
+**Logging Predictions:** Capturing inputs, predictions, and actual outcomes to analyze discrepancies and improve the model.
+
+## How can you automate the MLOps pipeline?
+
+Automating the MLOps pipeline can be achieved by integrating various tools and processes, including:
+
+**CI/CD Tools:** Utilizing CI/CD tools for automated testing and deployment of models.
+
+**Workflow Orchestration:** Using orchestration tools like Apache Airflow or Kubeflow Pipelines to automate the flow of tasks in the ML lifecycle.
+
+**Monitoring and Alerts:** Automating monitoring systems to trigger alerts and retraining workflows based on performance metrics.
+
