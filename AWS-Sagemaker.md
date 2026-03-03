@@ -30,3 +30,20 @@ Model Exploration, Building, and Training
 ## Model Evaluation
 
 After evaluating the model, a critical decision must be made regarding its effectiveness. If further adjustments—such as re-engineering features or retraining—are needed, the process iterates until the model performs satisfactorily. Once confirmed, the workflow advances to model development, deployment, and continuous monitoring/training using the latest data.
+
+# Common Challenges in the ML Development Lifecycle
+
+**The ML development lifecycle is not without its challenges:**
+
+## Lack of Standardization:
+
+Inconsistent workflows across teams can result in varied data preprocessing methods, leading to differences in data quality and model 
+performance.
+
+## Complexity of ML Models:
+
+Manual deployment of ML models—including managing dependencies and environment configurations—can be error-prone and inefficient.
+
+## Tool Overload:
+
+The necessity to integrate and coordinate numerous open-source tools across multiple ML models (often 20–30) increases operational overhead significantly.
