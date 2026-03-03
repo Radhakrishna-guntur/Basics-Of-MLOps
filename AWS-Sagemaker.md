@@ -132,10 +132,13 @@ SageMaker Canvas empowers business analysts and non-technical users by providing
 ## Summary
 
 With these ten core components, AWS SageMaker delivers a robust, end-to-end infrastructure for building, deploying, and maintaining machine learning models. Each service is crafted to address a specific stage in the ML lifecycle, ensuring that your projects are scalable, efficient, and reliable.
+
 Thank you for reading this guide. We look forward to sharing more insights and best practices in our upcoming lessons.
 
 For additional reading, check out these resources:
 
 AWS SageMaker Documentation - [https://aws.amazon.com/sagemaker/](url)
+
 Introduction to Machine Learning on AWS - [https://aws.amazon.com/ai/machine-learning/](url)
+
 AWS MLOps Blog - [https://aws.amazon.com/blogs/machine-learning/](url)
