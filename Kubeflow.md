@@ -56,14 +56,25 @@ MLflow is a lightweight, infrastructure-agnostic framework focused on experiment
 
 
 
+## Kubeflow Components:
 
 <img width="549" height="574" alt="Screenshot 2026-03-05 at 10 57 25 AM" src="https://github.com/user-attachments/assets/a4f0b0fa-eb5a-49d3-8351-dbea3d4465ec" />
 
+=============================================================================
+
+<img width="1297" height="671" alt="Screenshot 2026-03-05 at 10 55 59 AM" src="https://github.com/user-attachments/assets/bf1edfea-9b46-4f7c-9147-09c58cdcdb51" />
+
+=============================================================================
+
 <img width="1288" height="615" alt="Screenshot 2026-03-05 at 11 01 04 AM" src="https://github.com/user-attachments/assets/03b49968-0442-4c4e-9075-2b0c0f1e4fbc" />
+
+=============================================================================
 
 <img width="1286" height="697" alt="Screenshot 2026-03-05 at 10 57 00 AM" src="https://github.com/user-attachments/assets/49cd87af-b237-4ae7-8ba0-368d7aff7936" />
 
-<img width="1297" height="671" alt="Screenshot 2026-03-05 at 10 55 59 AM" src="https://github.com/user-attachments/assets/bf1edfea-9b46-4f7c-9147-09c58cdcdb51" />
+=============================================================================
+
+
 
 
 
