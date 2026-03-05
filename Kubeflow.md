@@ -128,7 +128,34 @@ Kubeflow is one of the most powerful platforms for building and managing machine
 <img width="1308" height="635" alt="Screenshot 2026-03-05 at 12 18 46 PM" src="https://github.com/user-attachments/assets/2e22432a-b265-4aed-9d34-7f2625a7d0e0" />
 
 =============================================================================
+Description: 
 
+we dive deep into the world of Kubeflow Pipelines and show you how to deploy a complete Machine Learning workflow locally using Docker and Minikube. Whether you're a data scientist, ML engineer, or just curious about MLOps, this tutorial will guide you step-by-step through the process of:
+
+1. Loading Data: Learn how to efficiently load your dataset into the pipeline.
+2. Preprocessing Data: Discover best practices for cleaning and transforming your data.
+3. Training a Machine Learning Model: Train your model using Kubeflow's powerful orchestration capabilities.
+4. Evaluating the Model: Evaluate your model's performance and ensure it meets your expectations.
+
+
+Tools & Technologies Used:
+
+1. Kubeflow Pipelines: For orchestrating the ML workflow.
+2. Docker: For containerizing your pipeline components.
+3. Minikube: For running a local Kubernetes cluster.
+
+Timestamps:
+
+                Introduction: 
+                Code Overview
+                Setting Up Docker Minikube & Kubectl
+                Setting Up Python venv
+                Setting Up Kubeflow environment
+                Build and Deploy Kubeflow Pipeline
+                Create & Run Pipeline in Kubeflow UI
+                Clean Up
+
+Now you'll have a fully functional Kubeflow Pipeline running on your local machine, ready to handle your ML projects with ease.
 =============================================================================
 
 =============================================================================
