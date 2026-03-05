@@ -73,6 +73,15 @@ MLflow is a lightweight, infrastructure-agnostic framework focused on experiment
 <img width="1286" height="697" alt="Screenshot 2026-03-05 at 10 57 00 AM" src="https://github.com/user-attachments/assets/49cd87af-b237-4ae7-8ba0-368d7aff7936" />
 
 =============================================================================
+<img width="1314" height="685" alt="Screenshot 2026-03-05 at 11 18 29 AM" src="https://github.com/user-attachments/assets/b996ebad-3ca9-4a83-b313-431d38869630" />
+
+=============================================================================
+
+<img width="1430" height="636" alt="Screenshot 2026-03-05 at 11 24 08 AM" src="https://github.com/user-attachments/assets/3e812396-0a1e-4fb2-8f2d-469c9e753308" />
+
+=============================================================================
+
+=============================================================================
 
 
 
