@@ -92,11 +92,33 @@ MLflow is a lightweight, infrastructure-agnostic framework focused on experiment
 <img width="1339" height="558" alt="Screenshot 2026-03-05 at 11 39 36 AM" src="https://github.com/user-attachments/assets/ef5dea0f-d13e-4e38-b1f4-e43dfe3c0e09" />
 
 =============================================================================
-![Uploading Screenshot 2026-03-05 at 11.48.24 AM.png…]()
+
+<img width="1065" height="446" alt="Screenshot 2026-03-05 at 11 48 24 AM" src="https://github.com/user-attachments/assets/f1bdee6f-3e1f-4a69-92c4-d3239c268cb7" />
 
 =============================================================================
+
+🚀Getting Started with Kubeflow v1.6.1 | Install & Setup Overview
+
+Kubeflow is one of the most powerful platforms for building and managing machine learning workflows on Kubernetes. In this video, we’ll walk you through the installation and setup process for Kubeflow v1.6.1, covering everything you need to know to get up and running — from prerequisites to deployment. Whether you're new to Kubeflow or upgrading to the latest version, this overview will help you start strong.
+
+---
+
+📚 What You'll Learn in This MLOps Course:
+✅ MLOps concepts from beginner to advanced  
+✅ ML experiment tracking & version control using MLflow  
+✅ CI/CD pipelines using GitHub Actions for ML models  
+✅ Containerization of ML applications using Docker  
+✅ Model deployment on Kubernetes with real-world use cases  
+✅ Introduction to Kubeflow and building Kubeflow Pipelines  
+✅ Model monitoring, security, logging, and versioning  
+✅ Scalable production-ready model serving  
+✅ A full end-to-end deployment case study
+
 =============================================================================
+<img width="1197" height="556" alt="Screenshot 2026-03-05 at 11 53 06 AM" src="https://github.com/user-attachments/assets/0c483e34-113b-4345-85de-67aedd902abd" />
+
 =============================================================================
+<img width="1179" height="629" alt="Screenshot 2026-03-05 at 11 53 31 AM" src="https://github.com/user-attachments/assets/52167fc6-6221-47dd-9a8c-d86edb283250" />
 
 =============================================================================
 =============================================================================
