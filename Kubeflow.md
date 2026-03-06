@@ -104,6 +104,7 @@ Kubeflow is one of the most powerful platforms for building and managing machine
 ---
 
 📚 What You'll Learn in This MLOps Course:
+
 ✅ MLOps concepts from beginner to advanced  
 ✅ ML experiment tracking & version control using MLflow  
 ✅ CI/CD pipelines using GitHub Actions for ML models  
@@ -132,19 +133,19 @@ Description:
 
 we dive deep into the world of Kubeflow Pipelines and show you how to deploy a complete Machine Learning workflow locally using Docker and Minikube. Whether you're a data scientist, ML engineer, or just curious about MLOps, this tutorial will guide you step-by-step through the process of:
 
-1. Loading Data: Learn how to efficiently load your dataset into the pipeline.
-2. Preprocessing Data: Discover best practices for cleaning and transforming your data.
-3. Training a Machine Learning Model: Train your model using Kubeflow's powerful orchestration capabilities.
-4. Evaluating the Model: Evaluate your model's performance and ensure it meets your expectations.
+**1. Loading Data:** Learn how to efficiently load your dataset into the pipeline.
+**2. Preprocessing Data:** Discover best practices for cleaning and transforming your data.
+**3. Training a Machine Learning Model:** Train your model using Kubeflow's powerful orchestration capabilities.
+**4. Evaluating the Model:** Evaluate your model's performance and ensure it meets your expectations.
 
 
-Tools & Technologies Used:
+**Tools & Technologies Used:**
 
-1. Kubeflow Pipelines: For orchestrating the ML workflow.
-2. Docker: For containerizing your pipeline components.
-3. Minikube: For running a local Kubernetes cluster.
+1. **Kubeflow Pipelines:** For orchestrating the ML workflow.
+2. **Docker:** For containerizing your pipeline components.
+3. **Minikube:** For running a local Kubernetes cluster.
 
-Timestamps:
+**Timestamps:**
 
                 Introduction: 
                 Code Overview
