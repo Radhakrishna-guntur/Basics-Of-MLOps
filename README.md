@@ -13,6 +13,12 @@ Traditional software development involves writing deterministic code that produc
 In contrast, machine learning development relies on training models using data, which introduces variability. 
 This means machine learning requires **continuous monitoring, updating, and retraining to maintain model performance over time**, especially as data distributions shift.
 
+## Key Focus Areas for DevOps Engineers
+
+
+<img width="853" height="684" alt="Screenshot 2026-03-12 at 10 21 25 AM" src="https://github.com/user-attachments/assets/8764cd91-8d96-40b1-ad67-ebf1601f7217" />
+
+
 ## What are the main components of an MLOps pipeline?
 
 **An MLOps pipeline typically includes several key components:**
@@ -34,8 +40,11 @@ This means machine learning requires **continuous monitoring, updating, and retr
 Popular MLOps tools include:
 
 **MLflow:** For tracking experiments and managing model lifecycles.
+
 **Kubeflow:** Designed for deploying machine learning workflows on Kubernetes.
+
 **DVC (Data Version Control):** Focused on versioning data and models.
+
 **TensorFlow Extended (TFX):** A comprehensive solution for production-ready ML pipelines. 
 
 These tools help automate and manage various aspects of the MLOps workflow.
