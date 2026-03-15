@@ -1,5 +1,6 @@
 # MLOps foundations:
 
+
 ## What is MLOps?
 
 **MLOps** - Machine Learning Operations, is a set of practices that aim to streamline the process of deploying, managing, and monitoring machine learning models in production. It integrates machine learning system development and operations, facilitating collaboration between data scientists and IT operations teams. 
